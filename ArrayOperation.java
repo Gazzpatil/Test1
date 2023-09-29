@@ -1,4 +1,5 @@
 package com.program;
+import java.util.*;
 import java.util.Scanner;
 public class ArrayOperation {
 
