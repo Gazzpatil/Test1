@@ -1,5 +1,5 @@
 package com.program;
-
+int a=0;
 public class AddArrEle {
 
 	public static void main(String[] args) {
